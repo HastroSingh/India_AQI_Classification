@@ -96,17 +96,3 @@ ML_Assignment2_B/
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-### 3. Deploy on Streamlit Cloud
-1. Push this repository to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Sign in with GitHub, select repo, pick `app.py`, deploy
-
-## Links
-
-- **GitHub Repository:** https://github.com/HastroSingh/India_AQI_Classification
-- **Live Streamlit App:** https://harshsinghindiaaqiclassification.streamlit.app/
-
-## Screenshots
-
-> BITS Virtual Lab screenshot goes here
